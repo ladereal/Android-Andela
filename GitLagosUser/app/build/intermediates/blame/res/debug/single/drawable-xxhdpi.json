@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\ProjectsReference\\GitLagosUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cover.png",
+        "source": "C:\\ProjectsReference\\GitLagosUser\\app\\src\\main\\res\\drawable-xxhdpi\\cover.png"
+    },
+    {
+        "merged": "C:\\ProjectsReference\\GitLagosUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_share.png",
+        "source": "C:\\ProjectsReference\\GitLagosUser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\ProjectsReference\\GitLagosUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_no_internet.png",
+        "source": "C:\\ProjectsReference\\GitLagosUser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_no_internet.png"
+    }
+]

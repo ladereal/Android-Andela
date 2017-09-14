@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ProjectsReference\\GitLagosUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cover.png",
+        "source": "C:\\ProjectsReference\\GitLagosUser\\app\\src\\main\\res\\drawable-mdpi\\cover.png"
+    },
+    {
+        "merged": "C:\\ProjectsReference\\GitLagosUser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_share.png",
+        "source": "C:\\ProjectsReference\\GitLagosUser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    }
+]
